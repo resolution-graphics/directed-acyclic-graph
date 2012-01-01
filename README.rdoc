@@ -1,6 +1,6 @@
 = Directed Acyclic Graph
 
-Directed Acyclic Graph, is a Ruby gem which allows you to represent a DAG hierarchy in Ruby.
+Directed Acyclic Graph, is a Ruby gem which allows you to represent a DAG system in Ruby.
 
 == Basic Information
 

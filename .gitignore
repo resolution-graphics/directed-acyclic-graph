@@ -1,0 +1,6 @@
+.idea/*
+*.gem
+*.gemspec
+.rvmrc
+pkg/*
+test/database.test
