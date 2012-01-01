@@ -19,8 +19,9 @@ module Dag
       end
     end
 
-    write_inheritable_attribute :dag_options, conf
-    class_inheritable_reader :dag_options
+    class_attribute :dag_options
+    self.dag_options = conf
+    #class_inheritable_reader :dag_options
 
     extend Columns
     include Columns
