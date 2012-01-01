@@ -1,0 +1,13 @@
+= Directed Acyclic Graph
+
+Directed Acyclic Graph, is a Ruby gem which allows you to represent a DAG hierarchy in Ruby.
+
+== Basic Information
+
+=== What's a Directed Acyclic Graph?
+
+http://en.wikipedia.org/wiki/Directed_acyclic_graph
+
+== Credit
+
+Authors:: Robert Schmitt
