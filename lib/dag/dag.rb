@@ -21,7 +21,6 @@ module Dag
 
     class_attribute :dag_options
     self.dag_options = conf
-    #class_inheritable_reader :dag_options
 
     extend Columns
     include Columns
